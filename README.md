@@ -1,29 +1,78 @@
-# README #
+# Título del Proyecto
 
-This README would normally document whatever steps are necessary to get your application up and running.
+_Acá va un párrafo que describa lo que es el proyecto_
 
-### What is this repository for? ###
+## Comenzando 🚀
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-### How do I get set up? ###
+Mira **Deployment** para conocer como desplegar el proyecto.
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
 
-### Contribution guidelines ###
+### Pre-requisitos 📋
 
-* Writing tests
-* Code review
-* Other guidelines
+_Que cosas necesitas para instalar el software y como instalarlas_
 
-### Who do I talk to? ###
+```
+Da un ejemplo
+```
 
-* Repo owner or admin
-* Other community or team contact
+### Instalación 🔧
+
+_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
+
+_Dí cómo será ese paso_
+
+```
+Da un ejemplo
+```
+
+_Y repite_
+
+```
+hasta finalizar
+```
+
+_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo (llamada a healthcheck)
+
+## Ejecutando las pruebas ⚙️
+
+_Explica como ejecutar las pruebas automatizadas para este sistema_
+
+### Analice las pruebas unitarias 🔩
+
+_Explica que verifican estas pruebas y por qué_
+
+```
+Da un ejemplo
+```
+
+## Despliegue 📦
+
+_Agrega notas adicionales sobre como hacer deploy_
+
+## Construido con 🛠️
+
+_Menciona las herramientas que utilizaste para crear tu proyecto_
+
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
+* [Maven](https://maven.apache.org/) - Manejador de dependencias
+* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+
+## Versionado 📌
+
+Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+
+## Autores ✒️
+
+_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+
+* **Edgard Aravena** - *Trabajo Inicial* - [villanuevand](https://google.cl)
+* **Daniel Nuñez** - *Documentación* - [fulanitodetal](https://google.cl)
+
+
+## Expresiones de Gratitud 🎁
+
+* Comenta a otros sobre este proyecto 📢
+* Da las gracias públicamente 🤓.
+* etc.
